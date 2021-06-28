@@ -1,0 +1,12 @@
+.num{
+    background-color: rgb(80, 80, 150);
+    width: fit-content;
+    float: left;
+}
+
+.operator{
+    float: left;
+    width: fit-content;
+    padding: 3%;
+    background-color: bisque;
+}
